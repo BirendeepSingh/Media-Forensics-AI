@@ -13,9 +13,6 @@ AI-powered toolkit to evaluate the risk, sentiment, and bias of online articles 
 ## 🛠️ Tech Stack
 React, Flask, LSTM (Keras), TextBlob, MongoDB, Netlify, Render
 
-## 🎬 Demo Video
-[Insert YouTube demo link with sections: Intro → Features → Prediction Demo → Dashboard → Chrome Ext]
-
 ## 🧪 How it Works
 [Flow diagram or explanation]
 
