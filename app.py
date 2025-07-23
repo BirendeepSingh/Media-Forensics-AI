@@ -4,7 +4,10 @@ import pickle
 from keras.models import load_model
 from keras.preprocessing.sequence import pad_sequences
 from textblob import TextBlob
+import os
 
+if __name__ == '__main__':
+    app.run(debug=False, host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
 # Load LSTM model and tokenizer
 model = load_model("lstm_model.h5")
 with open("tokenizer.pkl", "rb") as f:
