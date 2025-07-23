@@ -1,0 +1,7 @@
+Flask
+flask-cors
+tensorflow
+keras
+numpy
+pickle-mixin
+textblob
